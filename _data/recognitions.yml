@@ -1,15 +1,12 @@
 # Recognitions
 - organization: Date of Birth
-  summary: Dec 22, 1998
-
-- organization: Address 
-  summary: DGIST, 333, Techno Jungang Daero Hyeonpung-Myeon, Dalseong-Gun, Deagu, 42988, KOREA
+  year: &nbsp;&nbsp;&nbsp;Dec 22, 1998
   
 - organization: Phone 
-  summary: +82-10-2814-1043
+  year: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+82-10-2814-1043
   
 - organization: E-mail
-  summary: jungwoo@dgist.ac.kr
+  year: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jungwoo@dgist.ac.kr
   
 - organization: GPA 
-  summary: 3.98/4.3
+  year: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.98/4.3

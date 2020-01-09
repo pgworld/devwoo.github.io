@@ -1,13 +1,16 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: School of Undergraduate Studies, current
+  uni: DGIST
+  year: 2/2017 &mdash;
+#  awards:
+#    - award: DGIST 교수협의회 장학생, 2019
+#    - award: Programming lecture Tutor, 2019
+#    - award: Multivariable Calculus lecture Tutor, 2018 - 2019
+#  summary: If you had any meaningful roles at college, feel free to write about them here
 
 - degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  uni: Simin High School
+  year: 3/2014 &mdash; 1/2017
+ # award: Most likely to succeed
+# summary: You can choose to have either a single or multiple awards
+

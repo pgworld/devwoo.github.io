@@ -1,12 +1,4 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: 암흑데이터 극한활용 연구센터, 한국연구재단 선도연구센터(ERC)
+  description: 암흑데이터는 저장되지 못하고 버려지고 있거나, 저장되어도 찾지 못하거나, 찾아도 분석하지 못하는 일체의 데이터를 의미하며, 전 세계 데이터의 90% 이상을 차지하고 있다고 알려져 있다. 암흑데이터로 인해 국가 차원에서 막대한 기회비용, 저장비용, 에너지비용이 발생하고 있는 바, 암흑데이터를 수집, 저장, 관리, 처리 전 과정에서 극한으로 활용할 수 있는 차세대 정보 플랫폼 원천기술을 연구 개발하여 국가 암흑데이터 문제를 해결하는 것이 본 과제의 목표이다. 본 과제에서 본인은 데이터베이스 강의를 통해 숙지한 SQL 프로그래밍 및 데이터베이스 이론을 바탕으로 암흑데이터의 극한활용 기술을 연구하고 있으며, 그 중 특히 의료 모니터링 데이터와 같이 시계열 형태의 암흑데이터에 대한 활용 기술을 연구하였다.

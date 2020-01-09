@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Jungwoo Kim"
-resume_title:                   "VP of Global Communications"
+resume_title:                   "이것저것 만지면서 수정중"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "jungwoo@dgist.ac.kr"

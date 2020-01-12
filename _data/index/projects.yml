@@ -2,7 +2,6 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: EEDD
-i18n: Extreme Exploitation of Dark Data
-url: https://eedd.dgist.ac.kr
-img: /static/assets/img/landing/EEDD.png
-desc: 의료 모니터링 데이터와 같은 시계열 형태의 암흑데이터에 대한 활용 기술을 연구
+  url: https://eedd.dgist.ac.kr
+  img: /static/assets/img/landing/EEDD.png
+  desc: 의료 모니터링 데이터와 같은 시계열 형태의 암흑데이터에 대한 활용 기술을 연구

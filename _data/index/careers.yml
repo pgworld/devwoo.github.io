@@ -12,72 +12,71 @@
   present: true
 
 - name:
-  detail: EEDD Research Center
-desc:
-  detail: Extreme Exploitation of Dara Data
-date:
-  detail: Jun. 2019
-job:
-  detail: Internship
-icon: fa-plus-square
+    detail: EEDD Research Center
+  desc:
+    detail: Extreme Exploitation of Dara Data
+  date:
+    detail: Jun. 2019
+  job:
+    detail: Internship
+  icon: fa-plus-square
 
 - name:
-  detail: DGIST Tutor
-desc:
-  detail: Programming
-date:
-  detail: Mar. 2019
-job:
-  detail: Tutor
-icon: fa-plus-square
+    detail: DGIST Tutor
+  desc:
+    detail: Programming
+  date:
+    detail: Mar. 2019
+  job:
+    detail: Tutor
+  icon: fa-plus-square
 
 - name:
-  detail: 교수협의회 장학생
-desc:
-  detail:
-date:
-  detail: Mar. 2019
-job:
-  detail:
-icon: fa-plus-square
+    detail: 교수협의회 장학생
+  desc:
+    detail:
+  date:
+    detail: Mar. 2019
+  job:
+    detail:
+  icon: fa-plus-square
 
 - name:
-  detail: SAMSUNG Data Challenge 2018
-desc:
-  detail: 3rd Prize
-date:
-  detail: Sep. 2019
-job:
-  detail:
-icon: fa-plus-square
+    detail: SAMSUNG Data Challenge 2018
+  desc:
+    detail: 3rd Prize
+  date:
+    detail: Sep. 2019
+  job:
+    detail:
+  icon: fa-plus-square
 
 - name:
-  detail: NIMS
-desc:
-  detail: National Institute for Mathematical Sciences
-date:
-  detail: Jun. 2018
-job:
-  detail: Internship
-icon: fa-plus-square
+    detail: NIMS
+  desc:
+    detail: National Institute for Mathematical Sciences
+  date:
+    detail: Jun. 2018
+  job:
+    detail: Internship
+  icon: fa-plus-square
 
 - name:
-  detail: DGIST Tutor
-desc:
-  detail: Multivariable Calculus lecture Tutor
-date:
-  detail: Mar. 2018
-job:
-  detail: Tutor
-icon: fa-plus-square
+    detail: DGIST Tutor
+  desc:
+    detail: Multivariable Calculus lecture Tutor
+  date:
+    detail: Mar. 2018
+  job:
+    detail: Tutor
+  icon: fa-plus-square
 
 - name:
-  detail: NOM lab
-desc:
-  detail: Nanoscale Optoelectronic Materials Laboratory
-date:
-  detail: Jun. 2017
-job:
-  detail: Internship
-  i18n: company_b_job
-icon: fa-plus-square
+    detail: NOM lab
+  desc:
+    detail: Nanoscale Optoelectronic Materials Laboratory
+  date:
+    detail: Jun. 2017
+  job:
+    detail: Internship
+  icon: fa-plus-square
